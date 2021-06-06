@@ -1,0 +1,16 @@
+C:\Users\90544\source\repos\GameProjectHomework\GameProjectHomework\bin\Debug\net5.0\GameProjectHomework.exe
+C:\Users\90544\source\repos\GameProjectHomework\GameProjectHomework\bin\Debug\net5.0\GameProjectHomework.deps.json
+C:\Users\90544\source\repos\GameProjectHomework\GameProjectHomework\bin\Debug\net5.0\GameProjectHomework.runtimeconfig.json
+C:\Users\90544\source\repos\GameProjectHomework\GameProjectHomework\bin\Debug\net5.0\GameProjectHomework.runtimeconfig.dev.json
+C:\Users\90544\source\repos\GameProjectHomework\GameProjectHomework\bin\Debug\net5.0\GameProjectHomework.dll
+C:\Users\90544\source\repos\GameProjectHomework\GameProjectHomework\bin\Debug\net5.0\ref\GameProjectHomework.dll
+C:\Users\90544\source\repos\GameProjectHomework\GameProjectHomework\bin\Debug\net5.0\GameProjectHomework.pdb
+C:\Users\90544\source\repos\GameProjectHomework\GameProjectHomework\obj\Debug\net5.0\GameProjectHomework.csprojAssemblyReference.cache
+C:\Users\90544\source\repos\GameProjectHomework\GameProjectHomework\obj\Debug\net5.0\GameProjectHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90544\source\repos\GameProjectHomework\GameProjectHomework\obj\Debug\net5.0\GameProjectHomework.AssemblyInfoInputs.cache
+C:\Users\90544\source\repos\GameProjectHomework\GameProjectHomework\obj\Debug\net5.0\GameProjectHomework.AssemblyInfo.cs
+C:\Users\90544\source\repos\GameProjectHomework\GameProjectHomework\obj\Debug\net5.0\GameProjectHomework.csproj.CoreCompileInputs.cache
+C:\Users\90544\source\repos\GameProjectHomework\GameProjectHomework\obj\Debug\net5.0\GameProjectHomework.dll
+C:\Users\90544\source\repos\GameProjectHomework\GameProjectHomework\obj\Debug\net5.0\ref\GameProjectHomework.dll
+C:\Users\90544\source\repos\GameProjectHomework\GameProjectHomework\obj\Debug\net5.0\GameProjectHomework.pdb
+C:\Users\90544\source\repos\GameProjectHomework\GameProjectHomework\obj\Debug\net5.0\GameProjectHomework.genruntimeconfig.cache
