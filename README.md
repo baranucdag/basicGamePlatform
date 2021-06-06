@@ -1,0 +1,2 @@
+# basicGamePlatform
+Basic console app.
